@@ -9,10 +9,12 @@ root = tree.getroot()
 #print(root.tag)
 head = root[0]
 body = root[1]
+hymns_json = {}
 #for child in body:
    #print(child.tag)
 def getLyrics():
- lyrics_data = {}
+ verses = {"verses": []}
+ aVerse = {}
  divelement = body[0][1][0][2][0]
  headings = divelement.findall('{http://www.w3.org/1999/xhtml}h2') 
  lines =  divelement.findall('{http://www.w3.org/1999/xhtml}p')
@@ -25,8 +27,11 @@ def getLyrics():
  
   for i in p_split:
     verselines.append(i.strip())
-  lyrics_data[h2] = verselines
- return lyrics_data
+  aVerse = {"verse_title": h2, "lines": verselines}
+  verses["verses"].append(aVerse)
+
+
+ return verses
 
 
 def getNumber():
@@ -54,3 +59,4 @@ print(title)
 print(number)
 lyrics = getLyrics()
 print(lyrics)
+# hymns_json[number] = {"number": number, "title": title, "verses": }
