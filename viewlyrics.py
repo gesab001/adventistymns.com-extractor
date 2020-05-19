@@ -55,14 +55,17 @@ def getTitle():
 
 def getAuthor():
   authors = []
-  div = body[0][1][0][2][1][2]
-  dd = div.findall('{http://www.w3.org/1999/xhtml}dd')
-  for child in dd:
-    classvalue = child.attrib.get("class")
-    if classvalue=="hymn-author":
-        author_name = child[0].text
-        jsondata = {"name": author_name}
-        authors.append(jsondata)
+  try:
+      div = body[0][1][0][2][1][2]
+      dd = div.findall('{http://www.w3.org/1999/xhtml}dd')
+      for child in dd:
+        classvalue = child.attrib.get("class")
+        if classvalue=="hymn-author":
+            author_name = child[0].text
+            jsondata = {"name": author_name}
+            authors.append(jsondata)
+  except:
+      authors = []
   return authors
 
 
