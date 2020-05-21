@@ -68,6 +68,20 @@ def getAuthor():
       authors = []
   return authors
 
+def getTopic():
+    topic = []
+    try:
+          div = body[0][1][0][2][1][2]
+          dd = div.findall('{http://www.w3.org/1999/xhtml}dd')
+          for child in dd:
+            classvalue = child.attrib.get("class")
+            if classvalue=="hymn-topic":
+                topic_name = child[0].text.replace("\n", " ")
+                topic.append(topic_name)
+    except:
+          topic = []
+    return topic
+
 
 title = getTitle()
 number = getNumber()
@@ -76,5 +90,8 @@ print(number)
 lyrics = getLyrics()
 print(lyrics)
 authors = getAuthor()
-hymns_json[number] = {"number": number, "title": title, "authors": authors, "verses": lyrics}
+topic = getTopic()
+hymns_json[number] = {"number": number, "title": title, "topic": topic, "authors": authors, "verses": lyrics}
 print(hymns_json)
+
+
