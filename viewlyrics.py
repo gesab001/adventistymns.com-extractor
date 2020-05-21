@@ -62,7 +62,7 @@ def getAuthor():
         classvalue = child.attrib.get("class")
         if classvalue=="hymn-author":
             author_name = child[0].text
-            jsondata = {"name": author_name}
+            jsondata = {"name": author_name, "date": ""}
             authors.append(jsondata)
   except:
       authors = []
@@ -82,6 +82,65 @@ def getTopic():
           topic = []
     return topic
 
+def getCopyRight():
+    copyright = ""
+    try:
+          div = body[0][1][0][2][1][2]
+          dd = div.findall('{http://www.w3.org/1999/xhtml}dd')
+          for child in dd:
+            classvalue = child.attrib.get("class")
+            if classvalue=="hymn-copyright":
+                copyright = child[0].text.replace("\n", " ")
+
+    except:
+          copyright = ""
+    return copyright
+
+def getMeter():
+    meter = ""
+    try:
+          div = body[0][1][0][2][1][2]
+          dd = div.findall('{http://www.w3.org/1999/xhtml}dd')
+          for child in dd:
+            classvalue = child.attrib.get("class")
+            if classvalue=="hymn-meter":
+                meter = child[0].text.replace("\n", " ")
+
+    except:
+          meter = ""
+    return meter
+
+def getComposer():
+    composer = {}
+    try:
+          div = body[0][1][0][2][1][2]
+          dd = div.findall('{http://www.w3.org/1999/xhtml}dd')
+          for child in dd:
+            classvalue = child.attrib.get("class")
+            if classvalue=="hymn-composer":
+                name = child[0].text.replace("\n", " ")
+                # date = dd.text()
+                composer = {"name": name, "date": ""}
+
+
+    except:
+          composer = ""
+    return composer
+
+
+def getTune():
+    tune = ""
+    try:
+          div = body[0][1][0][2][1][2]
+          dd = div.findall('{http://www.w3.org/1999/xhtml}dd')
+          for child in dd:
+            classvalue = child.attrib.get("class")
+            if classvalue=="hymn-tune":
+                tune = child[0].text.replace("\n", " ")
+
+    except:
+          tune = ""
+    return tune
 
 title = getTitle()
 number = getNumber()
@@ -91,7 +150,11 @@ lyrics = getLyrics()
 print(lyrics)
 authors = getAuthor()
 topic = getTopic()
-hymns_json[number] = {"number": number, "title": title, "topic": topic, "authors": authors, "verses": lyrics}
+copyright = getCopyRight()
+meter = getMeter()
+composer = getComposer()
+tune = getTune()
+hymns_json[number] = {"number": number, "title": title, "topic": topic, "hymn_info": {"authors": authors, "composer": composer, "tune": tune, "meter": meter, "copyright": copyright, }, "verses": lyrics}
 print(hymns_json)
 
 
