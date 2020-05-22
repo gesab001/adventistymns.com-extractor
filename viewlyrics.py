@@ -13,7 +13,7 @@ hymns_json = {}
 
 
 #for child in body:
-   #print(child.tag)
+   ##print(child.tag)
 def getLyrics(body):
  verses = []
  aVerse = {}
@@ -22,27 +22,50 @@ def getLyrics(body):
  lines =  divelement.findall('{http://www.w3.org/1999/xhtml}p')
  for x in range(0, len(headings)):
   h2 = headings[x].text
-  p = lines[x].text
-  #print(h2)
-  p_split = p.split("[br]")
-  verselines = []
- 
-  for i in p_split:
-    verselines.append(i.strip())
-  aVerse = {"verse_title": h2, "lines": verselines}
-  verses.append(aVerse)
+  try:
+      p = lines[x].text
+      ##print(h2)
+      p_split = p.split("[br]")
+      verselines = []
+
+      for i in p_split:
+        verselines.append(i.strip())
+      aVerse = {"verse_title": h2, "lines": verselines}
+      verses.append(aVerse)
+  except:
+     print("error")
 
 
  return verses
 
 
+def getLyricsbackup(body):
+    verses = []
+    aVerse = {}
+    divelement = body[0][1][0][2][0]
+    headings = divelement.findall('{http://www.w3.org/1999/xhtml}h2')
+    lines = divelement.findall('{http://www.w3.org/1999/xhtml}p')
+    for x in range(0, len(headings)):
+        h2 = headings[x].text
+        p = lines[x].text
+        ##print(h2)
+        p_split = p.split("[br]")
+        verselines = []
+
+        for i in p_split:
+            verselines.append(i.strip())
+        aVerse = {"verse_title": h2, "lines": verselines}
+        verses.append(aVerse)
+
+    return verses
+
 def getNumber(head):
   titlemain = head.find('{http://www.w3.org/1999/xhtml}title')
   title_split = titlemain.text.split("\\\\")
   numbertitle = title_split[0]
-  #print(numbertitle)
+  ##print(numbertitle)
   number = re.findall(r'[0-9]*', numbertitle)
-  #print(number[0])
+  ##print(number[0])
   return number[0]
 
 def getTitle(head):
@@ -52,7 +75,7 @@ def getTitle(head):
      property = child.attrib.get("property")
      if property=="og:title":
         title = child.attrib.get("content")
-        #print(title)
+        ##print(title)
   return title
 
 def getAuthor(body):
@@ -162,6 +185,7 @@ def getScripture(body):
 def main():
     for x in range(0, len(json["list"])):
         url = json["list"][x]
+        print(url)
         command = "sudo curl -L " + url + " -o source.html"
         subprocess.call(command, shell=True)
         command = "tidy -q -asxml --numeric-entities yes source.html >file.xml"
@@ -173,15 +197,15 @@ def main():
 
         tree = ET.parse("file2.xml")
         root = tree.getroot()
-        # print(root.tag)
+        # #print(root.tag)
         head = root[0]
         body = root[1]
         title = getTitle(head)
         number = getNumber(head)
-        #print(title)
-        #print(number)
+        ##print(title)
+        ##print(number)
         lyrics = getLyrics(body)
-        #print(lyrics)
+        ##print(lyrics)
         authors = getAuthor(body)
         topic = getTopic(body)
         copyright = getCopyRight(body)
@@ -190,9 +214,10 @@ def main():
         tune = getTune(body)
         scripture = getScripture(body)
         hymns_json[number] = {"number": number, "title": title, "topic": topic, "hymn_info": {"scripture": scripture, "authors": authors, "composer": composer, "tune": tune, "meter": meter, "copyright": copyright, }, "verses": lyrics}
+
 main()
 
-print(hymns_json)
+#print(hymns_json)
 with open('hymns2test.json', 'w') as outfile:
     jsonwrite.dump(hymns_json, outfile)
 

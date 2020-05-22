@@ -17,21 +17,23 @@ xml:lang="en">
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style" content=
 "black" />
-<meta name="apple-mobile-web-app-title" content="Hymn 1" />
+<meta name="apple-mobile-web-app-title" content="Hymn 695" />
 <meta name="format-detection" content="telephone=no" />
 <meta property="fb:admins" content="696875904" />
 <meta property="fb:app_id" content="145911155572345" />
 <meta property="og:type" content="adventisthymns:hymn" />
 <meta property="og:url" content=
-"http://adventisthymns.com/lyrics/001-praise-to-the-lord" />
-<meta property="og:title" content="Praise to the Lord" />
+"http://adventisthymns.com/lyrics/695-praise-god-from-whom-all-blessings" />
+<meta property="og:title" content=
+"Praise God, From Whom All Blessings" />
 <meta property="og:image" content=
 "http://adventisthymns.com/assets/images/post-image.png" />
 <meta property="og:description" content=
-" Praise to the Lord, the Almighty, the King of creation! O my soul, praise Him, for He is thy health and salvation! All ye who…" />
+" Praise God, from Whom all blessings flow; Praise Him, all creatures here below; Praise Him above, ye heavenly host; Praise Father, Son, and Holy Ghost." />
 <meta name="description" content=
-" Praise to the Lord, the Almighty, the King of creation! O my soul, praise Him, for He is thy health and salvation! All ye who…" />
-<title>1—Praise to the Lord \\ Lyrics \\ Adventist Hymns</title>
+" Praise God, from Whom all blessings flow; Praise Him, all creatures here below; Praise Him above, ye heavenly host; Praise Father, Son, and Holy Ghost." />
+<title>695—Praise God, From Whom All Blessings \\ Lyrics \\
+Adventist Hymns</title>
 <link rel="shortcut icon" type="image/png" href=
 "http://adventisthymns.com/favicon.png" />
 <link rel="fluid-icon" href=
@@ -125,7 +127,7 @@ action="http://adventisthymns.com/">
 "eyJyZXN1bHRfcGFnZSI6InNlYXJjaFwvcmVzdWx0cyJ9" /> <input type=
 "hidden" name="ACT" value="35" /> <input type="hidden" name=
 "site_id" value="1" /> <input type="hidden" name="csrf_token"
-value="9f83846d54866faf47e2303c3a6b77036ec6d698" /></div>
+value="e47d60cedb2b0214ed8a1d2a6f46d3f439b81e06" /></div>
 <input type="search" name="keywords" class=
 "nav__search--input text-input" autocapitalize="off" id="q"
 placeholder="Search hymns" /> <small class="extra-help">Type and
@@ -138,24 +140,27 @@ hit 'Enter'</small></form>
 <div class="responsive-wrap">
 <header class="page-head" data-server="ec2">
 <div class="metadata"><span class="hymn-number" data-short-url=
-"http://adventisthymns.com/hymn/1">Hymn #1</span>
+"http://adventisthymns.com/hymn/695">Hymn #695</span>
 <div class="post__actions hide--palm"><a href=
-"http://adventisthymns.com/slides/001-praise-to-the-lord" target=
-"presenter"><span class="icon-text">Open in the
+"http://adventisthymns.com/slides/695-praise-god-from-whom-all-blessings"
+target="presenter"><span class="icon-text">Open in the
 <strong>main</strong> slideshow tab</span></a> <a href=
-"http://adventisthymns.com/slides/001-praise-to-the-lord" target=
-"slides_001-praise-to-the-lord"><span class="icon-text">Open in a
-<strong>single</strong> slideshow tab</span></a></div>
+"http://adventisthymns.com/slides/695-praise-god-from-whom-all-blessings"
+target="slides_695-praise-god-from-whom-all-blessings"><span class=
+"icon-text">Open in a <strong>single</strong> slideshow
+tab</span></a></div>
 </div>
-<h1 class="hymn-title" itemprop="name">Praise to the Lord</h1>
+<h1 class="hymn-title" itemprop="name">Praise God, From Whom All
+Blessings</h1>
 <div class="fb-like" data-href=
-"http://adventisthymns.com/lyrics/001-praise-to-the-lord"
+"http://adventisthymns.com/lyrics/695-praise-god-from-whom-all-blessings"
 data-send="false" data-layout="button_count" data-width="150"
 data-show-faces="false"></div>
 </header>
 <ol class="hymn-nav nav nav--fit pagination">
-<li class="pagination__prev"><span class="arrow muted" title=
-"No adjacent hymn">«</span></li>
+<li class="pagination__prev"><a href=
+"http://adventisthymns.com/lyrics/694-praise-god-from-whom-all-blessings">
+<span class="arrow">«</span> 694</a></li>
 <li><a href="javascript:void(0)" class="jq_jump-text">Jump to
 hymn</a>
 <form action="http://adventisthymns.com/jump" method="post" class=
@@ -164,35 +169,23 @@ hymn</a>
 name="jump-hymn" placeholder="Hymn #" class=
 "text-input jq_jump-input" value="" size="5" autocomplete="off" />
 <input type="hidden" name="XID" value=
-"9f83846d54866faf47e2303c3a6b77036ec6d698" /> <button type="submit"
+"e47d60cedb2b0214ed8a1d2a6f46d3f439b81e06" /> <button type="submit"
 class="btn">Go&#160;»</button></form>
 </li>
-<li class="pagination__next"><a href=
-"http://adventisthymns.com/lyrics/002-all-creatures-of-our-god-and-king">
-2 <span class="arrow">»</span></a></li>
+<li class="pagination__next"><span class="arrow muted" title=
+"No adjacent hymn">»</span></li>
 </ol>
 <div class="gw">
 <div class="g four-sixths palm-one-whole lyrics">
 <h2 class="line-type">Verse 1</h2>
-<p>Praise to the Lord, the Almighty, the King of creation!<br />
-O my soul, praise Him, for He is thy health and salvation!<br />
-All ye who hear, now to His temple draw near;<br />
-Join ye in glad adoration!</p>
-<h2 class="line-type">Verse 2</h2>
-<p>Praise to the Lord, Who o’er all things so wondrously
-reigneth<br />
-Shieldeth thee under His wings, yea, so gently sustaineth!<br />
-Hast thou not seen how thy desires e’er have been<br />
-Granted in what He ordaineth?</p>
-<h2 class="line-type">Verse 3</h2>
-<p>Praise to the Lord, who doth prosper thy work and defend
-thee<br />
-Surely His goodness and mercy here daily attend thee.<br />
-Ponder anew what the Almighty can do,<br />
-If with His love He befriend thee.</p>
+<p>Praise God, from Whom all blessings flow;<br />
+Praise Him, all creatures here below;<br />
+Praise Him above, ye heavenly host;<br />
+Praise Father, Son, and Holy Ghost.</p>
 <ol class="hymn-nav nav nav--fit pagination hide--desk">
-<li class="pagination__prev"><span class="arrow muted" title=
-"No adjacent hymn">«</span></li>
+<li class="pagination__prev"><a href=
+"http://adventisthymns.com/lyrics/694-praise-god-from-whom-all-blessings">
+<span class="arrow">«</span> 694</a></li>
 <li><a href="javascript:void(0)" class="jq_jump-text">Jump to
 hymn</a>
 <form action="http://adventisthymns.com/jump" method="post" class=
@@ -201,12 +194,11 @@ hymn</a>
 name="jump-hymn" placeholder="Hymn #" class=
 "text-input jq_jump-input" value="" size="5" autocomplete="off" />
 <input type="hidden" name="XID" value=
-"9f83846d54866faf47e2303c3a6b77036ec6d698" /> <button type="submit"
+"e47d60cedb2b0214ed8a1d2a6f46d3f439b81e06" /> <button type="submit"
 class="btn">Go&#160;»</button></form>
 </li>
-<li class="pagination__next"><a href=
-"http://adventisthymns.com/lyrics/002-all-creatures-of-our-god-and-king">
-2 <span class="arrow">»</span></a></li>
+<li class="pagination__next"><span class="arrow muted" title=
+"No adjacent hymn">»</span></li>
 </ol>
 </div>
 <div class="g two-sixths palm-one-whole sidebar">
@@ -214,55 +206,43 @@ class="btn">Go&#160;»</button></form>
 <h3 class="delta sidebar-heading">Hymn Info</h3>
 <dl class="post-info">
 <dt>Scripture</dt>
-<dd class="hymn-scripture">Psalm 103:2-5</dd>
-<dt>Author</dt>
-<dd class="hymn-author"><a href=
-"http://adventisthymns.com/sources/detail/joachim-neander"
-itemprop="author">Joachim Neander</a> (1650 - 1680)</dd>
-<dt>Translation</dt>
-<dd class="hymn-author"><a href=
-"http://adventisthymns.com/sources/detail/catherine-winkworth"
-itemprop="author">Catherine Winkworth</a>, 1863 (1827 - 1878)</dd>
-<dt>Composer</dt>
-<dd class="hymn-composer"><a href=
-"http://adventisthymns.com/sources/detail/choral-book-for-england"
-itemprop="contributor">Choral Book for England</a>, 1863</dd>
+<dd class="hymn-scripture">Psalm 148:1, 2</dd>
 <dt>Tune</dt>
 <dd class="hymn-tune"><a href=
-"http://adventisthymns.com/tunes/detail/lobe-den-herren" title=
-"View other hymns with Lobe den Herren">Lobe den Herren</a></dd>
+"http://adventisthymns.com/tunes/detail/old-hundredth" title=
+"View other hymns with Old Hundredth">Old Hundredth</a></dd>
 <dt>Meter</dt>
 <dd class="hymn-meter"><a href=
-"http://adventisthymns.com/meters/detail/14-14-4-7-8" title=
-"View other hymns with 14.14.4.7.8.">14.14.4.7.8.</a></dd>
+"http://adventisthymns.com/meters/detail/long-meter" title=
+"View other hymns with L.M.">L.M.</a></dd>
 <dt>Time Signature</dt>
-<dd class="hymn-time-sig">3/4</dd>
+<dd class="hymn-time-sig">4/4</dd>
 <dt>Topic</dt>
 <dd class="hymn-topic"><a href=
-"http://adventisthymns.com/topics/adoration-and-praise" title=
-"View other hymns about Adoration and Praise">Adoration and
-Praise</a></dd>
+"http://adventisthymns.com/topics/sentences-and-responses" title=
+"View other hymns about Sentences and Responses">Sentences and
+Responses</a></dd>
 <dt>Updated</dt>
-<dd>February 5, 2013, 7:05 pm PST</dd>
+<dd>January 31, 2013, 6:55 pm PST</dd>
 </dl>
 <hr />
 <h3 class="delta sidebar-heading">You might also like:</h3>
 <ul class="related">
 <li><a href=
-"http://adventisthymns.com/lyrics/002-all-creatures-of-our-god-and-king">
-<strong>002</strong> – All Creatures of Our God and King</a></li>
+"http://adventisthymns.com/lyrics/692-the-lord-is-in-his-holy-temple">
+<strong>692</strong> – The Lord Is in His Holy Temple</a></li>
 <li><a href=
-"http://adventisthymns.com/lyrics/010-come-christians-join-to-sing">
-<strong>010</strong> – Come, Christians, Join to Sing</a></li>
+"http://adventisthymns.com/lyrics/679-god-be-in-my-head"><strong>679</strong>
+– God Be in My Head</a></li>
 <li><a href=
-"http://adventisthymns.com/lyrics/004-praise-my-soul-the-king-of-heaven">
-<strong>004</strong> – Praise, My Soul, the King of Heaven</a></li>
+"http://adventisthymns.com/lyrics/684-hear-our-prayer-o-lord"><strong>
+684</strong> – Hear Our Prayer, O Lord</a></li>
 <li><a href=
-"http://adventisthymns.com/lyrics/012-joyful-joyful-we-adore-thee"><strong>
-012</strong> – Joyful, Joyful, We Adore Thee</a></li>
+"http://adventisthymns.com/lyrics/693-almighty-father"><strong>693</strong>
+– Almighty Father</a></li>
 <li><a href=
-"http://adventisthymns.com/lyrics/015-my-maker-and-my-king"><strong>
-015</strong> – My Maker and My King</a></li>
+"http://adventisthymns.com/lyrics/694-praise-god-from-whom-all-blessings">
+<strong>694</strong> – Praise God, From Whom All Blessings</a></li>
 </ul>
 <dl class="post-info"></dl>
 </div>
