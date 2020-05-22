@@ -17,23 +17,21 @@ xml:lang="en">
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style" content=
 "black" />
-<meta name="apple-mobile-web-app-title" content="Hymn 5" />
+<meta name="apple-mobile-web-app-title" content="Hymn 8" />
 <meta name="format-detection" content="telephone=no" />
 <meta property="fb:admins" content="696875904" />
 <meta property="fb:app_id" content="145911155572345" />
 <meta property="og:type" content="adventisthymns:hymn" />
 <meta property="og:url" content=
-"http://adventisthymns.com/lyrics/005-all-my-hope-on-god-is-founded" />
-<meta property="og:title" content=
-"All My Hope on God Is Founded" />
+"http://adventisthymns.com/lyrics/008-we-gather-together" />
+<meta property="og:title" content="We Gather Together" />
 <meta property="og:image" content=
 "http://adventisthymns.com/assets/images/post-image.png" />
 <meta property="og:description" content=
-" All my hope on God is founded; He doth still my trust renew, Me through change and chance He guideth, Only good and only true.…" />
+" We gather together to ask the Lord’s blessing; He chastens and hastens His will to make known. The wicked oppressing now cease from distressing.…" />
 <meta name="description" content=
-" All my hope on God is founded; He doth still my trust renew, Me through change and chance He guideth, Only good and only true.…" />
-<title>5—All My Hope on God Is Founded \\ Lyrics \\ Adventist
-Hymns</title>
+" We gather together to ask the Lord’s blessing; He chastens and hastens His will to make known. The wicked oppressing now cease from distressing.…" />
+<title>8—We Gather Together \\ Lyrics \\ Adventist Hymns</title>
 <link rel="shortcut icon" type="image/png" href=
 "http://adventisthymns.com/favicon.png" />
 <link rel="fluid-icon" href=
@@ -127,7 +125,7 @@ action="http://adventisthymns.com/">
 "eyJyZXN1bHRfcGFnZSI6InNlYXJjaFwvcmVzdWx0cyJ9" /> <input type=
 "hidden" name="ACT" value="35" /> <input type="hidden" name=
 "site_id" value="1" /> <input type="hidden" name="csrf_token"
-value="a2b3a2952955f4ab37f00429eaea5485d1c6f7f2" /></div>
+value="bd949f3c89ab4a4c13282978f3a06d04a6038390" /></div>
 <input type="search" name="keywords" class=
 "nav__search--input text-input" autocapitalize="off" id="q"
 placeholder="Search hymns" /> <small class="extra-help">Type and
@@ -140,27 +138,25 @@ hit 'Enter'</small></form>
 <div class="responsive-wrap">
 <header class="page-head" data-server="ec2">
 <div class="metadata"><span class="hymn-number" data-short-url=
-"http://adventisthymns.com/hymn/5">Hymn #5</span>
+"http://adventisthymns.com/hymn/8">Hymn #8</span>
 <div class="post__actions hide--palm"><a href=
-"http://adventisthymns.com/slides/005-all-my-hope-on-god-is-founded"
-target="presenter"><span class="icon-text">Open in the
+"http://adventisthymns.com/slides/008-we-gather-together" target=
+"presenter"><span class="icon-text">Open in the
 <strong>main</strong> slideshow tab</span></a> <a href=
-"http://adventisthymns.com/slides/005-all-my-hope-on-god-is-founded"
-target="slides_005-all-my-hope-on-god-is-founded"><span class=
-"icon-text">Open in a <strong>single</strong> slideshow
-tab</span></a></div>
+"http://adventisthymns.com/slides/008-we-gather-together" target=
+"slides_008-we-gather-together"><span class="icon-text">Open in a
+<strong>single</strong> slideshow tab</span></a></div>
 </div>
-<h1 class="hymn-title" itemprop="name">All My Hope on God Is
-Founded</h1>
+<h1 class="hymn-title" itemprop="name">We Gather Together</h1>
 <div class="fb-like" data-href=
-"http://adventisthymns.com/lyrics/005-all-my-hope-on-god-is-founded"
+"http://adventisthymns.com/lyrics/008-we-gather-together"
 data-send="false" data-layout="button_count" data-width="150"
 data-show-faces="false"></div>
 </header>
 <ol class="hymn-nav nav nav--fit pagination">
 <li class="pagination__prev"><a href=
-"http://adventisthymns.com/lyrics/004-praise-my-soul-the-king-of-heaven">
-<span class="arrow">«</span> 4</a></li>
+"http://adventisthymns.com/lyrics/007-the-lord-in-zion-reigneth"><span class="arrow">
+«</span> 7</a></li>
 <li><a href="javascript:void(0)" class="jq_jump-text">Jump to
 hymn</a>
 <form action="http://adventisthymns.com/jump" method="post" class=
@@ -169,47 +165,34 @@ hymn</a>
 name="jump-hymn" placeholder="Hymn #" class=
 "text-input jq_jump-input" value="" size="5" autocomplete="off" />
 <input type="hidden" name="XID" value=
-"a2b3a2952955f4ab37f00429eaea5485d1c6f7f2" /> <button type="submit"
+"bd949f3c89ab4a4c13282978f3a06d04a6038390" /> <button type="submit"
 class="btn">Go&#160;»</button></form>
 </li>
 <li class="pagination__next"><a href=
-"http://adventisthymns.com/lyrics/006-o-worship-the-lord">6
-<span class="arrow">»</span></a></li>
+"http://adventisthymns.com/lyrics/009-let-all-the-world-in-every-corner-sing">
+9 <span class="arrow">»</span></a></li>
 </ol>
 <div class="gw">
 <div class="g four-sixths palm-one-whole lyrics">
 <h2 class="line-type">Verse 1</h2>
-<p>All my hope on God is founded;[br]
-He doth still my trust renew,[br]
-Me through change and chance He guideth,[br]
-Only good and only true.[br]
-God unknown, He alone[br]
-Calls my heart to be His own.</p>
+<p>We gather together to ask the Lord’s blessing;[br]
+He chastens and hastens His will to make known.[br]
+The wicked oppressing now cease from distressing.[br]
+Sing praises to His Name; He forgets not His own.</p>
 <h2 class="line-type">Verse 2</h2>
-<p>Pride of man and earthly glory,[br]
-Sword and crown betray his trust;[br]
-What with care and toil he buildeth,[br]
-Tower and temple fall to dust.[br]
-But God’s power, hour by hour,[br]
-Is my temple and my tower.</p>
+<p>Beside us to guide us, our God with us joining,[br]
+Ordaining, maintaining His kingdom divine;[br]
+So from the beginning the fight we were winning;[br]
+Thou, Lord, were at our side, all glory be Thine!</p>
 <h2 class="line-type">Verse 3</h2>
-<p>God’s great goodness aye endureth[br]
-Deep His wisdom, passing thought:[br]
-Splendor, light, and life attend Him,[br]
-Beauty springeth out of naught.[br]
-Love doth stand at His hand;[br]
-Joy doth wait on His command.</p>
-<h2 class="line-type">Verse 4</h2>
-<p>Still from man to God eternal[br]
-Sacrifice of praise be done,[br]
-High above all praises praising[br]
-For the gift of Christ His son.[br]
-Christ doth call one and all:[br]
-Ye who follow shall not fall.</p>
+<p>We all do extol Thee, Thou leader triumphant,[br]
+And pray that Thou still our defender wilt be.[br]
+Let Thy congregation escape tribulation;[br]
+Thy name be ever praised! O Lord, make us free!</p>
 <ol class="hymn-nav nav nav--fit pagination hide--desk">
 <li class="pagination__prev"><a href=
-"http://adventisthymns.com/lyrics/004-praise-my-soul-the-king-of-heaven">
-<span class="arrow">«</span> 4</a></li>
+"http://adventisthymns.com/lyrics/007-the-lord-in-zion-reigneth"><span class="arrow">
+«</span> 7</a></li>
 <li><a href="javascript:void(0)" class="jq_jump-text">Jump to
 hymn</a>
 <form action="http://adventisthymns.com/jump" method="post" class=
@@ -218,12 +201,12 @@ hymn</a>
 name="jump-hymn" placeholder="Hymn #" class=
 "text-input jq_jump-input" value="" size="5" autocomplete="off" />
 <input type="hidden" name="XID" value=
-"a2b3a2952955f4ab37f00429eaea5485d1c6f7f2" /> <button type="submit"
+"bd949f3c89ab4a4c13282978f3a06d04a6038390" /> <button type="submit"
 class="btn">Go&#160;»</button></form>
 </li>
 <li class="pagination__next"><a href=
-"http://adventisthymns.com/lyrics/006-o-worship-the-lord">6
-<span class="arrow">»</span></a></li>
+"http://adventisthymns.com/lyrics/009-let-all-the-world-in-every-corner-sing">
+9 <span class="arrow">»</span></a></li>
 </ol>
 </div>
 <div class="g two-sixths palm-one-whole sidebar">
@@ -232,36 +215,37 @@ class="btn">Go&#160;»</button></form>
 <dl class="post-info">
 <dt>Author</dt>
 <dd class="hymn-author"><a href=
-"http://adventisthymns.com/sources/detail/joachim-neander"
-itemprop="author">Joachim Neander</a> (1650 - 1680)</dd>
+"http://adventisthymns.com/sources/detail/anonymous" itemprop=
+"author">Anonymous</a>, 1625</dd>
 <dt>Translation</dt>
 <dd class="hymn-author"><a href=
-"http://adventisthymns.com/sources/detail/robert-bridges" itemprop=
-"author">Robert Bridges</a> (1844 - 1930)</dd>
-<dt>Composer</dt>
+"http://adventisthymns.com/sources/detail/theodore-baker" itemprop=
+"author">Theodore Baker</a>, 1917 (1851 - 1934)</dd>
+<dt>Source</dt>
 <dd class="hymn-composer"><a href=
-"http://adventisthymns.com/sources/detail/herbert-howells"
-itemprop="contributor">Herbert Howells</a>, 1936 (1892 - 1983)</dd>
+"http://adventisthymns.com/sources/detail/netherland-folk-song"
+itemprop="contributor">Netherland Folk Song</a>, 1625</dd>
+<dt>Arrangement</dt>
+<dd class="hymn-composer"><a href=
+"http://adventisthymns.com/sources/detail/edward-kremser" itemprop=
+"contributor">Edward Kremser</a> (1838 - 1914)</dd>
 <dt>Tune</dt>
 <dd class="hymn-tune"><a href=
-"http://adventisthymns.com/tunes/detail/michael" title=
-"View other hymns with Michael">Michael</a></dd>
+"http://adventisthymns.com/tunes/detail/kremser" title=
+"View other hymns with Kremser">Kremser</a></dd>
 <dt>Meter</dt>
 <dd class="hymn-meter"><a href=
-"http://adventisthymns.com/meters/detail/8-7-8-7-3-3-7" title=
-"View other hymns with 8.7.8.7.3.3.7.">8.7.8.7.3.3.7.</a></dd>
+"http://adventisthymns.com/meters/detail/irregular" title=
+"View other hymns with Irregular">Irregular</a></dd>
+<dt>Time Signature</dt>
+<dd class="hymn-time-sig">3/4</dd>
 <dt>Topic</dt>
 <dd class="hymn-topic"><a href=
 "http://adventisthymns.com/topics/adoration-and-praise" title=
 "View other hymns about Adoration and Praise">Adoration and
 Praise</a></dd>
-<dt>Copyright</dt>
-<dd class="hymn-copyright">“All My Hope on God Is Founded”
-<p>Music reproduced by permission of Novello &amp; Company
-Limited.</p>
-</dd>
 <dt>Updated</dt>
-<dd>February 5, 2013, 7:05 pm PST</dd>
+<dd>June 9, 2013, 12:03 pm PDT</dd>
 </dl>
 <hr />
 <h3 class="delta sidebar-heading">You might also like:</h3>

@@ -1,0 +1,1395 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en" xmlns="http://www.w3.org/1999/xhtml"
+xml:lang="en">
+<!--<![endif]-->
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Linux version 5.2.0" />
+<meta charset="UTF-8" />
+<meta name="viewport" content=
+"initial-scale=1.0 maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content=
+"black" />
+<meta name="apple-mobile-web-app-title" content="Hymnal" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="description" content=
+"Dedicated to an ad-free, mobile-friendly experience of hymns from the Seventh-day Adventist Hymnal" />
+<meta property="fb:admins" content="696875904" />
+<title>1-99 \\ Numbers \\ Adventist Hymns</title>
+<link rel="shortcut icon" type="image/png" href=
+"http://adventisthymns.com/favicon.png" />
+<link rel="fluid-icon" href=
+"http://adventisthymns.com/assets/images/dock-icon.png" />
+<link rel="apple-touch-icon-precomposed" href=
+"http://adventisthymns.com/apple-touch-icon.png" />
+<!-- iPhone (Retina) -->
+<link rel="apple-touch-startup-image" href=
+"http://adventisthymns.com/assets/images/apple-touch/apple-touch-startup-image-640x920.png"
+media=
+"(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)" />
+<!-- iPhone 5 -->
+<link rel="apple-touch-startup-image" href=
+"http://adventisthymns.com/assets/images/apple-touch/apple-touch-startup-image-640x1096.png"
+media=
+"(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" />
+<!-- iPad (Retina) -->
+<link rel="apple-touch-startup-image" href=
+"http://adventisthymns.com/assets/images/apple-touch/apple-touch-startup-image-1536x2008.png"
+media=
+"(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)" />
+<link rel="apple-touch-startup-image" href=
+"http://adventisthymns.com/assets/images/apple-touch/apple-touch-startup-image-1496x2048.png"
+media=
+"(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)" />
+<link rel="stylesheet" href=
+"http://adventisthymns.com/assets/css/adventisthymns.css" />
+<script src=
+"http://adventisthymns.com/assets/js/modernizr.custom.40271.js">
+</script>
+</head>
+<body>
+<!--[if lt IE 9]>
+        <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+<![endif]-->
+<div class="gw">
+<header class="g one-fifth lap-one-whole palm-one-whole masthead">
+<script type="text/javascript">
+//<![CDATA[
+        
+        if (window.navigator.standalone == true ){
+                document.write('<a href="javascript:history.go(-1)" class="btn  btn-navbar  collapsed  left"><span class="history-back">&laquo;<\/span><\/a>');
+        }
+//]]>
+</script> <a href="javascript:void(0)" class=
+"btn btn-navbar collapsed right" data-toggle="collapse"
+data-target=".nav-responsive"></a> <a class="branding" href=
+"http://adventisthymns.com" title="Home"><img src=
+"http://adventisthymns.com/assets/images/adventisthymns-icon.png"
+class="logo" alt="Adventist Hymns" /></a>
+<nav class="one-whole nav-responsive nav-collapse collapse">
+<ul class="nav site-nav">
+<li><a href="http://adventisthymns.com/topics"><span class=
+"hide--lap hide--palm">&#160;»</span>Topics</a></li>
+<!--
+                        
+         -->
+<li><a href="http://adventisthymns.com/titles"><span class=
+"hide--lap hide--palm">&#160;»</span>Titles</a></li>
+<!--
+                        
+         -->
+<li class="current"><a href=
+"http://adventisthymns.com/numbers"><span class=
+"hide--lap hide--palm">&#160;»</span>Numbers</a></li>
+<!--
+                        
+         -->
+<li><a href="http://adventisthymns.com/tunes"><span class=
+"hide--lap hide--palm">&#160;»</span>Tunes</a></li>
+<!--
+                        
+         -->
+<li><a href="http://adventisthymns.com/meters"><span class=
+"hide--lap hide--palm">&#160;»</span>Meters</a></li>
+<!--
+                        
+         -->
+<li><a href="http://adventisthymns.com/sources"><span class=
+"hide--lap hide--palm">&#160;»</span>Sources</a></li>
+<!--
+                        
+         -->
+<li class="nav__search"><a href="javascript:void(0)" class=
+"nav__search--link jq_nav__search--link">Search
+<!--<i class="i" data-char="q"></i>--></a> <small class=
+"nav__search--help jq_nav__search--link hide--lap hide--palm">Press
+'/'</small>
+<form class="nav__search--form jq_nav__search--form" method="post"
+action="http://adventisthymns.com/">
+<div class='hiddenFields'><input type="hidden" name="params" value=
+"eyJyZXN1bHRfcGFnZSI6InNlYXJjaFwvcmVzdWx0cyJ9" /> <input type=
+"hidden" name="ACT" value="35" /> <input type="hidden" name=
+"site_id" value="1" /> <input type="hidden" name="csrf_token"
+value="d791fa4b20f8634a2d8e333614d400b52b0d86b9" /></div>
+<input type="search" name="keywords" class=
+"nav__search--input text-input" autocapitalize="off" id="q"
+placeholder="Search hymns" /> <small class="extra-help">Type and
+hit 'Enter'</small></form>
+</li>
+</ul>
+</nav>
+</header>
+<div class="g four-fifths lap-one-whole palm-one-whole body">
+<div class="responsive-wrap">
+<header class="page-head">
+<h1>Numerical Index</h1>
+<nav>
+<ul class="nav nav--block index-nav">
+<li><a href="http://adventisthymns.com/numbers/1-99" title=
+"1-99">1-99</a></li>
+<li><a href="http://adventisthymns.com/numbers/100-199" title=
+"100-199">100-199</a></li>
+<li><a href="http://adventisthymns.com/numbers/200-299" title=
+"200-299">200-299</a></li>
+<li><a href="http://adventisthymns.com/numbers/300-399" title=
+"300-399">300-399</a></li>
+<li><a href="http://adventisthymns.com/numbers/400-499" title=
+"400-499">400-499</a></li>
+<li><a href="http://adventisthymns.com/numbers/500-599" title=
+"500-599">500-599</a></li>
+<li><a href="http://adventisthymns.com/numbers/600-695" title=
+"600-695">600-695</a></li>
+</ul>
+</nav>
+</header>
+<div class="gw">
+<div class="g four-sixths palm-one-whole">
+<section class="entries">
+<h2 class="list-heading">Hymns 1-99</h2>
+<ul class="block-list">
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/001-praise-to-the-lord"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/001-praise-to-the-lord"
+target="present_001-praise-to-the-lord" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/001-praise-to-the-lord">1 –
+Praise to the Lord</a></h2>
+<span class="post__excerpt">Praise to the Lord, the Almighty,
+the…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/002-all-creatures-of-our-god-and-king"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/002-all-creatures-of-our-god-and-king"
+target="present_002-all-creatures-of-our-god-and-king" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/002-all-creatures-of-our-god-and-king">
+2 – All Creatures of Our God and King</a></h2>
+<span class="post__excerpt">All creatures of our God and King,
+Lift…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/003-god-himself-is-with-us"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/003-god-himself-is-with-us"
+target="present_003-god-himself-is-with-us" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/003-god-himself-is-with-us">3 –
+God Himself Is With Us</a></h2>
+<span class="post__excerpt">God Himself is with us; Let us all
+adore…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/004-praise-my-soul-the-king-of-heaven"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/004-praise-my-soul-the-king-of-heaven"
+target="present_004-praise-my-soul-the-king-of-heaven" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/004-praise-my-soul-the-king-of-heaven">
+4 – Praise, My Soul, the King of Heaven</a></h2>
+<span class="post__excerpt">Praise, my soul, the King of heaven;
+To…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/005-all-my-hope-on-god-is-founded"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/005-all-my-hope-on-god-is-founded"
+target="present_005-all-my-hope-on-god-is-founded" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/005-all-my-hope-on-god-is-founded">
+5 – All My Hope on God Is Founded</a></h2>
+<span class="post__excerpt">All my hope on God is founded; He
+doth…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/006-o-worship-the-lord"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/006-o-worship-the-lord"
+target="present_006-o-worship-the-lord" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/006-o-worship-the-lord">6 – O
+Worship the Lord</a></h2>
+<span class="post__excerpt">O worship the Lord in the beauty
+of…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/007-the-lord-in-zion-reigneth"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/007-the-lord-in-zion-reigneth"
+target="present_007-the-lord-in-zion-reigneth" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/007-the-lord-in-zion-reigneth">7
+– The Lord in Zion Reigneth</a></h2>
+<span class="post__excerpt">The Lord in Zion reigneth, let all
+the…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/008-we-gather-together"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/008-we-gather-together"
+target="present_008-we-gather-together" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/008-we-gather-together">8 – We
+Gather Together</a></h2>
+<span class="post__excerpt">We gather together to ask the
+Lord’s…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/009-let-all-the-world-in-every-corner-sing"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/009-let-all-the-world-in-every-corner-sing"
+target="present_009-let-all-the-world-in-every-corner-sing" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/009-let-all-the-world-in-every-corner-sing">
+9 – Let All the World in Every Corner Sing</a></h2>
+<span class="post__excerpt">Let all the world in every corner
+sing,…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/010-come-christians-join-to-sing"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/010-come-christians-join-to-sing"
+target="present_010-come-christians-join-to-sing" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/010-come-christians-join-to-sing">
+10 – Come, Christians, Join to Sing</a></h2>
+<span class="post__excerpt">Come, Christians, join to
+sing,…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/011-the-god-of-abraham-praise"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/011-the-god-of-abraham-praise"
+target="present_011-the-god-of-abraham-praise" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/011-the-god-of-abraham-praise">11
+– The God of Abraham Praise</a></h2>
+<span class="post__excerpt">The God of Abraham praise, Who
+reigns…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/012-joyful-joyful-we-adore-thee"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/012-joyful-joyful-we-adore-thee"
+target="present_012-joyful-joyful-we-adore-thee" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/012-joyful-joyful-we-adore-thee">12
+– Joyful, Joyful, We Adore Thee</a></h2>
+<span class="post__excerpt">Joyful, joyful, we adore Thee, God
+of…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/013-new-songs-of-celebration-render"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/013-new-songs-of-celebration-render"
+target="present_013-new-songs-of-celebration-render" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/013-new-songs-of-celebration-render">
+13 – New Songs of Celebration Render</a></h2>
+<span class="post__excerpt">New songs of celebration render To
+Him…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/014-let-us-praise-the-name-of-the-lord"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/014-let-us-praise-the-name-of-the-lord"
+target="present_014-let-us-praise-the-name-of-the-lord" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/014-let-us-praise-the-name-of-the-lord">
+14 – Let Us Praise the Name of the Lord</a></h2>
+<span class="post__excerpt">Let us praise the name of the Lord!
+Give…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/015-my-maker-and-my-king"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/015-my-maker-and-my-king"
+target="present_015-my-maker-and-my-king" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/015-my-maker-and-my-king">15 – My
+Maker and My King</a></h2>
+<span class="post__excerpt">My Maker and my King, To Thee my all
+I…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/016-all-people-that-on-earth-do-dwell"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/016-all-people-that-on-earth-do-dwell"
+target="present_016-all-people-that-on-earth-do-dwell" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/016-all-people-that-on-earth-do-dwell">
+16 – All People That on Earth Do Dwell</a></h2>
+<span class="post__excerpt">All people that on earth do dwell,
+Sing…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/017-lord-of-all-being-throned-afar"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/017-lord-of-all-being-throned-afar"
+target="present_017-lord-of-all-being-throned-afar" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/017-lord-of-all-being-throned-afar">
+17 – Lord of All Being, Throned Afar</a></h2>
+<span class="post__excerpt">Lord of all being, throned afar,
+Thy…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/018-o-morning-star-how-fair-and-bright"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/018-o-morning-star-how-fair-and-bright"
+target="present_018-o-morning-star-how-fair-and-bright" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/018-o-morning-star-how-fair-and-bright">
+18 – O Morning Star, How Fair and Bright</a></h2>
+<span class="post__excerpt">O Morning Star, how fair and bright!
+You…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/019-o-sing-a-new-song-to-the-lord"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/019-o-sing-a-new-song-to-the-lord"
+target="present_019-o-sing-a-new-song-to-the-lord" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/019-o-sing-a-new-song-to-the-lord">
+19 – O Sing a New Song to the Lord</a></h2>
+<span class="post__excerpt">O sing a new song to the Lord
+For…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/020-o-praise-ye-the-lord"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/020-o-praise-ye-the-lord"
+target="present_020-o-praise-ye-the-lord" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/020-o-praise-ye-the-lord">20 – O
+Praise Ye the Lord</a></h2>
+<span class="post__excerpt">O praise ye the Lord! Praise Him in
+the…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/021-immortal-invisible-god-only-wise"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/021-immortal-invisible-god-only-wise"
+target="present_021-immortal-invisible-god-only-wise" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/021-immortal-invisible-god-only-wise">
+21 – Immortal, Invisible, God Only Wise</a></h2>
+<span class="post__excerpt">Immortal, invisible, God only wise,
+In…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/022-god-is-our-song"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/022-god-is-our-song"
+target="present_022-god-is-our-song" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/022-god-is-our-song">22 – God Is
+Our Song</a></h2>
+<span class="post__excerpt">God is our Song, and every singer
+blest…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/023-now-the-joyful-bells-a-ringing"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/023-now-the-joyful-bells-a-ringing"
+target="present_023-now-the-joyful-bells-a-ringing" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/023-now-the-joyful-bells-a-ringing">
+23 – Now the Joyful Bells A-Ringing</a></h2>
+<span class="post__excerpt">Now the joyful bells a-ringing, All
+ye…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/024-every-star-shall-sing-a-carol"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/024-every-star-shall-sing-a-carol"
+target="present_024-every-star-shall-sing-a-carol" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/024-every-star-shall-sing-a-carol">
+24 – Every Star Shall Sing a Carol</a></h2>
+<span class="post__excerpt">Every star shall sing a carol;
+Every…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/025-praise-the-lord-his-glories-show"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/025-praise-the-lord-his-glories-show"
+target="present_025-praise-the-lord-his-glories-show" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/025-praise-the-lord-his-glories-show">
+25 – Praise the Lord, His Glories Show</a></h2>
+<span class="post__excerpt">Praise the Lord, His glories
+show,…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/026-praise-the-lord-you-heavens-adore-him"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/026-praise-the-lord-you-heavens-adore-him"
+target="present_026-praise-the-lord-you-heavens-adore-him" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/026-praise-the-lord-you-heavens-adore-him">
+26 – Praise the Lord! You Heavens Adore Him</a></h2>
+<span class="post__excerpt">Praise the Lord: you heavens,
+adore…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/027-rejoice-ye-pure-in-heart"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/027-rejoice-ye-pure-in-heart"
+target="present_027-rejoice-ye-pure-in-heart" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/027-rejoice-ye-pure-in-heart">27
+– Rejoice, Ye Pure in Heart!</a></h2>
+<span class="post__excerpt">Rejoice ye pure in heart! Rejoice,
+give…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/028-praise-we-the-lord"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/028-praise-we-the-lord"
+target="present_028-praise-we-the-lord" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/028-praise-we-the-lord">28 –
+Praise We the Lord</a></h2>
+<span class="post__excerpt">Praise we the Lord, who made all
+beauty…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/029-sing-praise-to-god"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/029-sing-praise-to-god"
+target="present_029-sing-praise-to-god" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/029-sing-praise-to-god">29 – Sing
+Praise to God</a></h2>
+<span class="post__excerpt">Sing praise to God who reigns above,
+The…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/030-holy-god-we-praise-your-name"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/030-holy-god-we-praise-your-name"
+target="present_030-holy-god-we-praise-your-name" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/030-holy-god-we-praise-your-name">
+30 – Holy God, We Praise Your Name</a></h2>
+<span class="post__excerpt">Holy God, we praise Your name; Lord
+of…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/031-tell-out-my-soul"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/031-tell-out-my-soul"
+target="present_031-tell-out-my-soul" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/031-tell-out-my-soul">31 – Tell
+Out, my Soul</a></h2>
+<span class="post__excerpt">Tell out, my soul, the greatness of
+the…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/032-when-in-our-music-god-is-glorified"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/032-when-in-our-music-god-is-glorified"
+target="present_032-when-in-our-music-god-is-glorified" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/032-when-in-our-music-god-is-glorified">
+32 – When in Our Music God Is Glorified</a></h2>
+<span class="post__excerpt">When in our music God is glorified,
+And…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/033-sing-a-new-song-to-the-lord"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/033-sing-a-new-song-to-the-lord"
+target="present_033-sing-a-new-song-to-the-lord" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/033-sing-a-new-song-to-the-lord">33
+– Sing A New Song to the Lord</a></h2>
+<span class="post__excerpt">Sing a new song to the Lord, He to
+whom…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/034-wake-the-song" target=
+"presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/034-wake-the-song" target=
+"present_034-wake-the-song" title="Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/034-wake-the-song">34 – Wake the
+Song</a></h2>
+<span class="post__excerpt">Wake the song of joy and
+gladness;…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/035-with-songs-and-honors"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/035-with-songs-and-honors"
+target="present_035-with-songs-and-honors" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/035-with-songs-and-honors">35 –
+With Songs and Honors</a></h2>
+<span class="post__excerpt">With songs and honors sounding
+loud,…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/036-o-thou-in-whose-presence"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/036-o-thou-in-whose-presence"
+target="present_036-o-thou-in-whose-presence" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/036-o-thou-in-whose-presence">36
+– O Thou in Whose Presence</a></h2>
+<span class="post__excerpt">O Thou in whose presence my soul
+takes…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/037-o-sing-my-soul-your-makers-praise"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/037-o-sing-my-soul-your-makers-praise"
+target="present_037-o-sing-my-soul-your-makers-praise" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/037-o-sing-my-soul-your-makers-praise">
+37 – O Sing My Soul, Your Maker's Praise</a></h2>
+<span class="post__excerpt">O sing my soul, your
+Maker’s…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/038-arise-my-soul-arise"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/038-arise-my-soul-arise"
+target="present_038-arise-my-soul-arise" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/038-arise-my-soul-arise">38 –
+Arise, My Soul, Arise!</a></h2>
+<span class="post__excerpt">Arise, my soul, arise! Stretch forth
+to…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/039-lord-in-the-morning"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/039-lord-in-the-morning"
+target="present_039-lord-in-the-morning" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/039-lord-in-the-morning">39 –
+Lord In the Morning</a></h2>
+<span class="post__excerpt">Lord, in the morning Thou shalt hear
+My…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/040-the-dawn-of-gods-dear-sabbath"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/040-the-dawn-of-gods-dear-sabbath"
+target="present_040-the-dawn-of-gods-dear-sabbath" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/040-the-dawn-of-gods-dear-sabbath">
+40 – The Dawn of God's Dear Sabbath</a></h2>
+<span class="post__excerpt">The dawn of God’s dear
+Sabbath…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/041-o-splendor-of-gods-glory-bright"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/041-o-splendor-of-gods-glory-bright"
+target="present_041-o-splendor-of-gods-glory-bright" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/041-o-splendor-of-gods-glory-bright">
+41 – O Splendor of God's Glory Bright</a></h2>
+<span class="post__excerpt">O splendor of God’s glory bright,
+From…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/042-now-that-the-daylight-fills-the-sky"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/042-now-that-the-daylight-fills-the-sky"
+target="present_042-now-that-the-daylight-fills-the-sky" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/042-now-that-the-daylight-fills-the-sky">
+42 – Now That the Daylight Fills the Sky</a></h2>
+<span class="post__excerpt">Now that the daylight fills the sky,
+We…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/043-when-morning-gilds-the-skies"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/043-when-morning-gilds-the-skies"
+target="present_043-when-morning-gilds-the-skies" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/043-when-morning-gilds-the-skies">
+43 – When Morning Gilds the Skies</a></h2>
+<span class="post__excerpt">When morning gilds the skies my
+heart…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/044-morning-has-broken"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/044-morning-has-broken"
+target="present_044-morning-has-broken" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/044-morning-has-broken">44 –
+Morning Has Broken</a></h2>
+<span class="post__excerpt">Morning has broken like the
+first…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/045-open-now-thy-gates-of-beauty"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/045-open-now-thy-gates-of-beauty"
+target="present_045-open-now-thy-gates-of-beauty" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/045-open-now-thy-gates-of-beauty">
+45 – Open Now Thy Gates of Beauty</a></h2>
+<span class="post__excerpt">Open now thy gates of beauty, Zion,
+let…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/046-abide-with-me-tis-eventide"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/046-abide-with-me-tis-eventide"
+target="present_046-abide-with-me-tis-eventide" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/046-abide-with-me-tis-eventide">46
+– Abide With Me, 'Tis Eventide</a></h2>
+<span class="post__excerpt">Abide with me, ’tis eventide! The
+day…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/047-god-who-made-the-earth-and-heaven"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/047-god-who-made-the-earth-and-heaven"
+target="present_047-god-who-made-the-earth-and-heaven" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/047-god-who-made-the-earth-and-heaven">
+47 – God, Who Made the Earth and Heaven</a></h2>
+<span class="post__excerpt">God, who made the earth and
+heaven,…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/048-softly-now-the-light-of-day"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/048-softly-now-the-light-of-day"
+target="present_048-softly-now-the-light-of-day" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/048-softly-now-the-light-of-day">48
+– Softly Now the Light of Day</a></h2>
+<span class="post__excerpt">Softly now the light of day Fades
+upon…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/049-savior-breathe-an-evening-blessing"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/049-savior-breathe-an-evening-blessing"
+target="present_049-savior-breathe-an-evening-blessing" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/049-savior-breathe-an-evening-blessing">
+49 – Savior, Breathe an Evening Blessing</a></h2>
+<span class="post__excerpt">Savior, breathe an evening blessing,
+Ere…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/050-abide-with-me" target=
+"presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/050-abide-with-me" target=
+"present_050-abide-with-me" title="Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/050-abide-with-me">50 – Abide
+With Me</a></h2>
+<span class="post__excerpt">Abide with me; fast falls the
+eventide;…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/051-day-is-dying-in-the-west"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/051-day-is-dying-in-the-west"
+target="present_051-day-is-dying-in-the-west" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/051-day-is-dying-in-the-west">51
+– Day Is Dying in the West</a></h2>
+<span class="post__excerpt">Day is dying in the west; Heaven
+is…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/052-now-the-day-is-over"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/052-now-the-day-is-over"
+target="present_052-now-the-day-is-over" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/052-now-the-day-is-over">52 – Now
+the Day Is Over</a></h2>
+<span class="post__excerpt">Now the day is over, Night is
+drawing…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/053-all-praise-to-thee"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/053-all-praise-to-thee"
+target="present_053-all-praise-to-thee" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/053-all-praise-to-thee">53 – All
+Praise to Thee</a></h2>
+<span class="post__excerpt">All praise to thee, my God, this
+night,…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/054-o-gladsome-light"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/054-o-gladsome-light"
+target="present_054-o-gladsome-light" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/054-o-gladsome-light">54 – O
+Gladsome Light</a></h2>
+<span class="post__excerpt">O gladsome light, Of God the
+Father’s…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/055-jesus-tender-shepherd-hear-me"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/055-jesus-tender-shepherd-hear-me"
+target="present_055-jesus-tender-shepherd-hear-me" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/055-jesus-tender-shepherd-hear-me">
+55 – Jesus, Tender Shepherd, Hear Me</a></h2>
+<span class="post__excerpt">Jesus, tender Shepherd, hear me,
+Bless…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/056-the-day-thou-gavest"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/056-the-day-thou-gavest"
+target="present_056-the-day-thou-gavest" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/056-the-day-thou-gavest">56 – The
+Day Thou Gavest</a></h2>
+<span class="post__excerpt">The day Thou gavest, Lord, is ended;
+The…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/057-now-all-the-woods-are-sleeping"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/057-now-all-the-woods-are-sleeping"
+target="present_057-now-all-the-woods-are-sleeping" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/057-now-all-the-woods-are-sleeping">
+57 – Now All the Woods Are Sleeping</a></h2>
+<span class="post__excerpt">Now all the woods are sleeping,
+And…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/058-hark-the-vesper-hymn-is-stealing"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/058-hark-the-vesper-hymn-is-stealing"
+target="present_058-hark-the-vesper-hymn-is-stealing" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/058-hark-the-vesper-hymn-is-stealing">
+58 – Hark, the Vesper Hymn Is Stealing</a></h2>
+<span class="post__excerpt">Hark! the vesper hymn is stealing
+O’er…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/059-great-our-joy-as-now-we-gather"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/059-great-our-joy-as-now-we-gather"
+target="present_059-great-our-joy-as-now-we-gather" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/059-great-our-joy-as-now-we-gather">
+59 – Great Our Joy as Now We Gather</a></h2>
+<span class="post__excerpt">Great our joy as now we gather Where
+the…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/060-blessed-jesus-at-thy-word"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/060-blessed-jesus-at-thy-word"
+target="present_060-blessed-jesus-at-thy-word" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/060-blessed-jesus-at-thy-word">60
+– Blessed Jesus, at Thy Word</a></h2>
+<span class="post__excerpt">Blessed Jesus, at Thy word, We
+are…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/061-god-is-here" target=
+"presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/061-god-is-here" target=
+"present_061-god-is-here" title="Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/061-god-is-here">61 – God Is
+Here!</a></h2>
+<span class="post__excerpt">God is here as we his people Meet
+to…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/062-how-lovely-is-thy-dwelling-place"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/062-how-lovely-is-thy-dwelling-place"
+target="present_062-how-lovely-is-thy-dwelling-place" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/062-how-lovely-is-thy-dwelling-place">
+62 – How Lovely Is Thy Dwelling Place</a></h2>
+<span class="post__excerpt">How lovely is Thy dwelling place, O
+Lord…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/063-o-come-let-us-sing-to-the-lord"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/063-o-come-let-us-sing-to-the-lord"
+target="present_063-o-come-let-us-sing-to-the-lord" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/063-o-come-let-us-sing-to-the-lord">
+63 – O Come, Let Us Sing to the Lord</a></h2>
+<span class="post__excerpt">O come, let us sing to the Lord,
+Come…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/064-lord-dismiss-us-with-thy-blessing"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/064-lord-dismiss-us-with-thy-blessing"
+target="present_064-lord-dismiss-us-with-thy-blessing" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/064-lord-dismiss-us-with-thy-blessing">
+64 – Lord, Dismiss Us With Thy Blessing</a></h2>
+<span class="post__excerpt">Lord, dismiss us with thy blessing;
+Fill…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/065-god-be-with-you"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/065-god-be-with-you"
+target="present_065-god-be-with-you" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/065-god-be-with-you">65 – God Be
+With You</a></h2>
+<span class="post__excerpt">God be with you till we meet again;
+By…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/066-god-be-with-you"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/066-god-be-with-you"
+target="present_066-god-be-with-you" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/066-god-be-with-you">66 – God Be
+With You</a></h2>
+<span class="post__excerpt">God be with you till we meet again;
+By…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/067-o-lord-now-let-your-servant"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/067-o-lord-now-let-your-servant"
+target="present_067-o-lord-now-let-your-servant" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/067-o-lord-now-let-your-servant">67
+– O Lord, Now Let Your Servant</a></h2>
+<span class="post__excerpt">O Lord, now let Your servant Depart
+in…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/068-on-our-way-rejoicing"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/068-on-our-way-rejoicing"
+target="present_068-on-our-way-rejoicing" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/068-on-our-way-rejoicing">68 – On
+Our Way Rejoicing</a></h2>
+<span class="post__excerpt">On our way rejoicing Gladly let us
+go;…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/069-lord-make-us-more-holy"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/069-lord-make-us-more-holy"
+target="present_069-lord-make-us-more-holy" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/069-lord-make-us-more-holy">69 –
+Lord, Make Us More Holy</a></h2>
+<span class="post__excerpt">Lord, make us more holy; Lord, make
+us…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/070-praise-ye-the-father"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/070-praise-ye-the-father"
+target="present_070-praise-ye-the-father" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/070-praise-ye-the-father">70 –
+Praise Ye the Father</a></h2>
+<span class="post__excerpt">Praise ye the Father for His
+loving…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/071-come-thou-almighty-king"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/071-come-thou-almighty-king"
+target="present_071-come-thou-almighty-king" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/071-come-thou-almighty-king">71 –
+Come Thou Almighty King</a></h2>
+<span class="post__excerpt">Come, Thou almighty King, Help us
+Thy…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/072-creator-of-the-stars-of-night"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/072-creator-of-the-stars-of-night"
+target="present_072-creator-of-the-stars-of-night" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/072-creator-of-the-stars-of-night">
+72 – Creator of the Stars of Night</a></h2>
+<span class="post__excerpt">Creator of the stars of night,
+Thy…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/073-holy-holy-holy" target=
+"presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/073-holy-holy-holy" target=
+"present_073-holy-holy-holy" title="Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/073-holy-holy-holy">73 – Holy,
+Holy, Holy</a></h2>
+<span class="post__excerpt">Holy, holy, holy! Lord God
+Almighty!…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/074-like-a-river-glorious"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/074-like-a-river-glorious"
+target="present_074-like-a-river-glorious" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/074-like-a-river-glorious">74 –
+Like a River Glorious</a></h2>
+<span class="post__excerpt">Like a river glorious, Is
+God’s…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/075-the-wonder-of-it-all"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/075-the-wonder-of-it-all"
+target="present_075-the-wonder-of-it-all" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/075-the-wonder-of-it-all">75 –
+The Wonder of It All</a></h2>
+<span class="post__excerpt">There’s the wonder of sunset
+at…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/076-o-love-that-wilt-not-let-me-go"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/076-o-love-that-wilt-not-let-me-go"
+target="present_076-o-love-that-wilt-not-let-me-go" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/076-o-love-that-wilt-not-let-me-go">
+76 – O Love That Wilt Not Let Me Go</a></h2>
+<span class="post__excerpt">O Love that wilt not let me go, I
+rest…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/077-o-love-of-god-most-full"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/077-o-love-of-god-most-full"
+target="present_077-o-love-of-god-most-full" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/077-o-love-of-god-most-full">77 –
+O Love of God Most Full</a></h2>
+<span class="post__excerpt">O love of God most full, O love of
+God…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/078-for-god-so-loved-us"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/078-for-god-so-loved-us"
+target="present_078-for-god-so-loved-us" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/078-for-god-so-loved-us">78 – For
+God So Loved Us</a></h2>
+<span class="post__excerpt">For God so loved us, He sent
+the…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/079-o-love-of-god-how-strong-and-true"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/079-o-love-of-god-how-strong-and-true"
+target="present_079-o-love-of-god-how-strong-and-true" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/079-o-love-of-god-how-strong-and-true">
+79 – O Love of God, How Strong and True</a></h2>
+<span class="post__excerpt">O love of God, how strong and
+true!…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/080-o-world-of-god" target=
+"presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/080-o-world-of-god" target=
+"present_080-o-world-of-god" title="Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/080-o-world-of-god">80 – O World
+of God</a></h2>
+<span class="post__excerpt">O world of God, so vast and
+strange,…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/081-though-i-speak-with-tongues"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/081-though-i-speak-with-tongues"
+target="present_081-though-i-speak-with-tongues" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/081-though-i-speak-with-tongues">81
+– Though I Speak With Tongues</a></h2>
+<span class="post__excerpt">Though I speak with tongues of men
+and…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/082-before-jehovahs-awful-throne"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/082-before-jehovahs-awful-throne"
+target="present_082-before-jehovahs-awful-throne" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/082-before-jehovahs-awful-throne">
+82 – Before Jehovah’s Awful Throne</a></h2>
+<span class="post__excerpt">Before Jehovah’s awful throne,
+Ye…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/083-o-worship-the-king"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/083-o-worship-the-king"
+target="present_083-o-worship-the-king" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/083-o-worship-the-king">83 – O
+Worship the King</a></h2>
+<span class="post__excerpt">O worship the King, all glorious
+above,…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/084-god-the-omnipotent"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/084-god-the-omnipotent"
+target="present_084-god-the-omnipotent" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/084-god-the-omnipotent">84 – God
+the Omnipotent</a></h2>
+<span class="post__excerpt">God the Omnipotent! King, who
+ordainest…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/085-eternal-father-strong-to-save"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/085-eternal-father-strong-to-save"
+target="present_085-eternal-father-strong-to-save" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/085-eternal-father-strong-to-save">
+85 – Eternal Father Strong to Save</a></h2>
+<span class="post__excerpt">Eternal Father, strong to save,
+Whose…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/086-how-great-thou-art"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/086-how-great-thou-art"
+target="present_086-how-great-thou-art" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/086-how-great-thou-art">86 – How
+Great Thou Art</a></h2>
+<span class="post__excerpt">O Lord my God! when I in awesome
+wonder…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/087-god-who-spoke-in-the-beginning"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/087-god-who-spoke-in-the-beginning"
+target="present_087-god-who-spoke-in-the-beginning" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/087-god-who-spoke-in-the-beginning">
+87 – God Who Spoke in the Beginning</a></h2>
+<span class="post__excerpt">God who spoke in the beginning,
+Forming…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/088-i-sing-the-mighty-power-of-god"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/088-i-sing-the-mighty-power-of-god"
+target="present_088-i-sing-the-mighty-power-of-god" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/088-i-sing-the-mighty-power-of-god">
+88 – I Sing the Mighty Power of God</a></h2>
+<span class="post__excerpt">I sing the mighty power of God,
+That…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/089-let-all-on-earth-their-voices-raise"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/089-let-all-on-earth-their-voices-raise"
+target="present_089-let-all-on-earth-their-voices-raise" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/089-let-all-on-earth-their-voices-raise">
+89 – Let All on Earth Their Voices Raise</a></h2>
+<span class="post__excerpt">Let all on earth their voices raise,
+To…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/090-eternal-god-whose-power-upholds"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/090-eternal-god-whose-power-upholds"
+target="present_090-eternal-god-whose-power-upholds" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/090-eternal-god-whose-power-upholds">
+90 – Eternal God, Whose Power Upholds</a></h2>
+<span class="post__excerpt">Eternal God, whose power upholds
+Both…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/091-ye-watchers-and-ye-holy-ones"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/091-ye-watchers-and-ye-holy-ones"
+target="present_091-ye-watchers-and-ye-holy-ones" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/091-ye-watchers-and-ye-holy-ones">
+91 – Ye Watchers and Ye Holy Ones</a></h2>
+<span class="post__excerpt">Ye watchers and ye holy ones,
+Bright…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/092-this-is-my-fathers-world"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/092-this-is-my-fathers-world"
+target="present_092-this-is-my-fathers-world" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/092-this-is-my-fathers-world">92
+– This is My Father’s World</a></h2>
+<span class="post__excerpt">This is my Father’s world, And to
+my…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/093-all-things-bright-and-beautiful"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/093-all-things-bright-and-beautiful"
+target="present_093-all-things-bright-and-beautiful" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/093-all-things-bright-and-beautiful">
+93 – All Things Bright and Beautiful</a></h2>
+<span class="post__excerpt">All things bright and beautiful
+All…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/094-nature-with-open-volume-stands"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/094-nature-with-open-volume-stands"
+target="present_094-nature-with-open-volume-stands" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/094-nature-with-open-volume-stands">
+94 – Nature With Open Volume Stands</a></h2>
+<span class="post__excerpt">Nature with open volume stands,
+To…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/095-spring-has-now-unwrapped-the-flowers"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/095-spring-has-now-unwrapped-the-flowers"
+target="present_095-spring-has-now-unwrapped-the-flowers" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/095-spring-has-now-unwrapped-the-flowers">
+95 – Spring Has Now Unwrapped the Flowers</a></h2>
+<span class="post__excerpt">Spring has now unwrapped the
+flowers,…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/096-the-spacious-firmament"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/096-the-spacious-firmament"
+target="present_096-the-spacious-firmament" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/096-the-spacious-firmament">96 –
+The Spacious Firmament</a></h2>
+<span class="post__excerpt">The spacious firmament on high, With
+all…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/097-lord-of-the-boundless-curves-of-space"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/097-lord-of-the-boundless-curves-of-space"
+target="present_097-lord-of-the-boundless-curves-of-space" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/097-lord-of-the-boundless-curves-of-space">
+97 – Lord of the Boundless Curves of Space</a></h2>
+<span class="post__excerpt">Lord of the boundless curves of
+space…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/098-can-you-count-the-stars"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/098-can-you-count-the-stars"
+target="present_098-can-you-count-the-stars" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/098-can-you-count-the-stars">98 –
+Can You Count the Stars?</a></h2>
+<span class="post__excerpt">Can you count the stars that
+brightly…</span></li>
+<li>
+<div class="post__actions hide--palm"><a href=
+"http://adventisthymns.com/presentation/099-god-will-take-care-of-you"
+target="presenter" title="Present"></a> <a href=
+"http://adventisthymns.com/presentation/099-god-will-take-care-of-you"
+target="present_099-god-will-take-care-of-you" title=
+"Present Separately"></a></div>
+<h2 class="post__title"><a href=
+"http://adventisthymns.com/lyrics/099-god-will-take-care-of-you">99
+– God Will Take Care of You</a></h2>
+<span class="post__excerpt">Be not dismayed whate’er betide,
+God…</span></li>
+</ul>
+</section>
+</div>
+<div class="g two-sixths palm-one-whole sidebar">
+<hr class="hide--desk hide--lap" />
+<h3 class="delta sidebar-heading">Numbers Index</h3>
+<p>This index lists all the hymns in the order they appear in the
+hymnal. 
+<!-- A few hymns could not be included on this site because of copyright restrictions. --></p>
+</div>
+</div>
+</div>
+<!-- /responsive-wrap --></div>
+</div>
+<div class="responsive-wrap">
+<footer class="one-whole site-info">
+<p>Site design copyright © 2020 Adventist Hymns.</p>
+<p>All music and lyrics remain the property of their respective
+owners. This website is for reference and education purposes
+only.</p>
+</footer>
+</div>
+<script src=
+"https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js">
+</script> 
+<script src=
+"http://adventisthymns.com/assets/js/lib/fastclick/fastclick.min.js">
+</script> 
+<script src=
+"http://adventisthymns.com/assets/js/application.min.js">
+</script> <!-- Load scripts in this container -->
+<div id="site-scripts"></div>
+<!-- Prevent links in standalone web apps opening Mobile Safari via https://gist.github.com/1042167#file-compressed-js and https://gist.github.com/1042026#comment-37145 -->
+<script>
+<![CDATA[
+(function(a,b,c){if(c in b&&b[c]){var d,e=a.location,f=/^(a|html)$/i;a.addEventListener("click",function(a){d=a.target;while(!f.test(d.nodeName))d=d.parentNode;"href"in d&&(d.href.indexOf("http")||~d.href.indexOf(e.host))&&(a.preventDefault(),e.href=d.href)},!1)}})(document,window.navigator,"standalone")
+]]>
+</script> <!--Google Analytics-->
+<script type="text/javascript">
+//<![CDATA[
+
+        var _gaq = _gaq || [];
+        var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+        _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+        _gaq.push(['_setAccount', 'UA-8634165-6']);
+        _gaq.push(['_setDomainName', 'adventisthymns.com']);
+        _gaq.push(['_trackPageview']);
+        
+        (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+//]]>
+</script>
+</body>
+</html>
