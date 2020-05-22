@@ -1,4 +1,5 @@
-import json
+import json as jsonlinks
+import json as jsonwrite
 import re
 import xml.etree.ElementTree as ET
 import subprocess
@@ -6,9 +7,8 @@ import subprocess
 #string = f.read()
 #nobr = string.replace("<br //>", "[br]")
 f = open("hymnlinks.json", "r")
-json = json.load(f)
-head = ""
-body = ""
+json = jsonlinks.load(f)
+
 hymns_json = {}
 
 
@@ -178,10 +178,10 @@ def main():
         body = root[1]
         title = getTitle(head)
         number = getNumber(head)
-        print(title)
-        print(number)
+        #print(title)
+        #print(number)
         lyrics = getLyrics(body)
-        print(lyrics)
+        #print(lyrics)
         authors = getAuthor(body)
         topic = getTopic(body)
         copyright = getCopyRight(body)
@@ -193,5 +193,6 @@ def main():
 main()
 
 print(hymns_json)
-
+with open('hymns2test.json', 'w') as outfile:
+    jsonwrite.dump(hymns_json, outfile)
 

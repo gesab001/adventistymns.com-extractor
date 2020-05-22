@@ -17,21 +17,21 @@ xml:lang="en">
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style" content=
 "black" />
-<meta name="apple-mobile-web-app-title" content="Hymn 8" />
+<meta name="apple-mobile-web-app-title" content="Hymn 1" />
 <meta name="format-detection" content="telephone=no" />
 <meta property="fb:admins" content="696875904" />
 <meta property="fb:app_id" content="145911155572345" />
 <meta property="og:type" content="adventisthymns:hymn" />
 <meta property="og:url" content=
-"http://adventisthymns.com/lyrics/008-we-gather-together" />
-<meta property="og:title" content="We Gather Together" />
+"http://adventisthymns.com/lyrics/001-praise-to-the-lord" />
+<meta property="og:title" content="Praise to the Lord" />
 <meta property="og:image" content=
 "http://adventisthymns.com/assets/images/post-image.png" />
 <meta property="og:description" content=
-" We gather together to ask the Lord’s blessing; He chastens and hastens His will to make known. The wicked oppressing now cease from distressing.…" />
+" Praise to the Lord, the Almighty, the King of creation! O my soul, praise Him, for He is thy health and salvation! All ye who…" />
 <meta name="description" content=
-" We gather together to ask the Lord’s blessing; He chastens and hastens His will to make known. The wicked oppressing now cease from distressing.…" />
-<title>8—We Gather Together \\ Lyrics \\ Adventist Hymns</title>
+" Praise to the Lord, the Almighty, the King of creation! O my soul, praise Him, for He is thy health and salvation! All ye who…" />
+<title>1—Praise to the Lord \\ Lyrics \\ Adventist Hymns</title>
 <link rel="shortcut icon" type="image/png" href=
 "http://adventisthymns.com/favicon.png" />
 <link rel="fluid-icon" href=
@@ -125,7 +125,7 @@ action="http://adventisthymns.com/">
 "eyJyZXN1bHRfcGFnZSI6InNlYXJjaFwvcmVzdWx0cyJ9" /> <input type=
 "hidden" name="ACT" value="35" /> <input type="hidden" name=
 "site_id" value="1" /> <input type="hidden" name="csrf_token"
-value="bd949f3c89ab4a4c13282978f3a06d04a6038390" /></div>
+value="9f83846d54866faf47e2303c3a6b77036ec6d698" /></div>
 <input type="search" name="keywords" class=
 "nav__search--input text-input" autocapitalize="off" id="q"
 placeholder="Search hymns" /> <small class="extra-help">Type and
@@ -138,25 +138,24 @@ hit 'Enter'</small></form>
 <div class="responsive-wrap">
 <header class="page-head" data-server="ec2">
 <div class="metadata"><span class="hymn-number" data-short-url=
-"http://adventisthymns.com/hymn/8">Hymn #8</span>
+"http://adventisthymns.com/hymn/1">Hymn #1</span>
 <div class="post__actions hide--palm"><a href=
-"http://adventisthymns.com/slides/008-we-gather-together" target=
+"http://adventisthymns.com/slides/001-praise-to-the-lord" target=
 "presenter"><span class="icon-text">Open in the
 <strong>main</strong> slideshow tab</span></a> <a href=
-"http://adventisthymns.com/slides/008-we-gather-together" target=
-"slides_008-we-gather-together"><span class="icon-text">Open in a
+"http://adventisthymns.com/slides/001-praise-to-the-lord" target=
+"slides_001-praise-to-the-lord"><span class="icon-text">Open in a
 <strong>single</strong> slideshow tab</span></a></div>
 </div>
-<h1 class="hymn-title" itemprop="name">We Gather Together</h1>
+<h1 class="hymn-title" itemprop="name">Praise to the Lord</h1>
 <div class="fb-like" data-href=
-"http://adventisthymns.com/lyrics/008-we-gather-together"
+"http://adventisthymns.com/lyrics/001-praise-to-the-lord"
 data-send="false" data-layout="button_count" data-width="150"
 data-show-faces="false"></div>
 </header>
 <ol class="hymn-nav nav nav--fit pagination">
-<li class="pagination__prev"><a href=
-"http://adventisthymns.com/lyrics/007-the-lord-in-zion-reigneth"><span class="arrow">
-«</span> 7</a></li>
+<li class="pagination__prev"><span class="arrow muted" title=
+"No adjacent hymn">«</span></li>
 <li><a href="javascript:void(0)" class="jq_jump-text">Jump to
 hymn</a>
 <form action="http://adventisthymns.com/jump" method="post" class=
@@ -165,34 +164,35 @@ hymn</a>
 name="jump-hymn" placeholder="Hymn #" class=
 "text-input jq_jump-input" value="" size="5" autocomplete="off" />
 <input type="hidden" name="XID" value=
-"bd949f3c89ab4a4c13282978f3a06d04a6038390" /> <button type="submit"
+"9f83846d54866faf47e2303c3a6b77036ec6d698" /> <button type="submit"
 class="btn">Go&#160;»</button></form>
 </li>
 <li class="pagination__next"><a href=
-"http://adventisthymns.com/lyrics/009-let-all-the-world-in-every-corner-sing">
-9 <span class="arrow">»</span></a></li>
+"http://adventisthymns.com/lyrics/002-all-creatures-of-our-god-and-king">
+2 <span class="arrow">»</span></a></li>
 </ol>
 <div class="gw">
 <div class="g four-sixths palm-one-whole lyrics">
 <h2 class="line-type">Verse 1</h2>
-<p>We gather together to ask the Lord’s blessing;[br]
-He chastens and hastens His will to make known.[br]
-The wicked oppressing now cease from distressing.[br]
-Sing praises to His Name; He forgets not His own.</p>
+<p>Praise to the Lord, the Almighty, the King of creation![br]
+O my soul, praise Him, for He is thy health and salvation![br]
+All ye who hear, now to His temple draw near;[br]
+Join ye in glad adoration!</p>
 <h2 class="line-type">Verse 2</h2>
-<p>Beside us to guide us, our God with us joining,[br]
-Ordaining, maintaining His kingdom divine;[br]
-So from the beginning the fight we were winning;[br]
-Thou, Lord, were at our side, all glory be Thine!</p>
+<p>Praise to the Lord, Who o’er all things so wondrously
+reigneth[br]
+Shieldeth thee under His wings, yea, so gently sustaineth![br]
+Hast thou not seen how thy desires e’er have been[br]
+Granted in what He ordaineth?</p>
 <h2 class="line-type">Verse 3</h2>
-<p>We all do extol Thee, Thou leader triumphant,[br]
-And pray that Thou still our defender wilt be.[br]
-Let Thy congregation escape tribulation;[br]
-Thy name be ever praised! O Lord, make us free!</p>
+<p>Praise to the Lord, who doth prosper thy work and defend
+thee[br]
+Surely His goodness and mercy here daily attend thee.[br]
+Ponder anew what the Almighty can do,[br]
+If with His love He befriend thee.</p>
 <ol class="hymn-nav nav nav--fit pagination hide--desk">
-<li class="pagination__prev"><a href=
-"http://adventisthymns.com/lyrics/007-the-lord-in-zion-reigneth"><span class="arrow">
-«</span> 7</a></li>
+<li class="pagination__prev"><span class="arrow muted" title=
+"No adjacent hymn">«</span></li>
 <li><a href="javascript:void(0)" class="jq_jump-text">Jump to
 hymn</a>
 <form action="http://adventisthymns.com/jump" method="post" class=
@@ -201,42 +201,40 @@ hymn</a>
 name="jump-hymn" placeholder="Hymn #" class=
 "text-input jq_jump-input" value="" size="5" autocomplete="off" />
 <input type="hidden" name="XID" value=
-"bd949f3c89ab4a4c13282978f3a06d04a6038390" /> <button type="submit"
+"9f83846d54866faf47e2303c3a6b77036ec6d698" /> <button type="submit"
 class="btn">Go&#160;»</button></form>
 </li>
 <li class="pagination__next"><a href=
-"http://adventisthymns.com/lyrics/009-let-all-the-world-in-every-corner-sing">
-9 <span class="arrow">»</span></a></li>
+"http://adventisthymns.com/lyrics/002-all-creatures-of-our-god-and-king">
+2 <span class="arrow">»</span></a></li>
 </ol>
 </div>
 <div class="g two-sixths palm-one-whole sidebar">
 <hr class="hide--desk hide--lap" />
 <h3 class="delta sidebar-heading">Hymn Info</h3>
 <dl class="post-info">
+<dt>Scripture</dt>
+<dd class="hymn-scripture">Psalm 103:2-5</dd>
 <dt>Author</dt>
 <dd class="hymn-author"><a href=
-"http://adventisthymns.com/sources/detail/anonymous" itemprop=
-"author">Anonymous</a>, 1625</dd>
+"http://adventisthymns.com/sources/detail/joachim-neander"
+itemprop="author">Joachim Neander</a> (1650 - 1680)</dd>
 <dt>Translation</dt>
 <dd class="hymn-author"><a href=
-"http://adventisthymns.com/sources/detail/theodore-baker" itemprop=
-"author">Theodore Baker</a>, 1917 (1851 - 1934)</dd>
-<dt>Source</dt>
+"http://adventisthymns.com/sources/detail/catherine-winkworth"
+itemprop="author">Catherine Winkworth</a>, 1863 (1827 - 1878)</dd>
+<dt>Composer</dt>
 <dd class="hymn-composer"><a href=
-"http://adventisthymns.com/sources/detail/netherland-folk-song"
-itemprop="contributor">Netherland Folk Song</a>, 1625</dd>
-<dt>Arrangement</dt>
-<dd class="hymn-composer"><a href=
-"http://adventisthymns.com/sources/detail/edward-kremser" itemprop=
-"contributor">Edward Kremser</a> (1838 - 1914)</dd>
+"http://adventisthymns.com/sources/detail/choral-book-for-england"
+itemprop="contributor">Choral Book for England</a>, 1863</dd>
 <dt>Tune</dt>
 <dd class="hymn-tune"><a href=
-"http://adventisthymns.com/tunes/detail/kremser" title=
-"View other hymns with Kremser">Kremser</a></dd>
+"http://adventisthymns.com/tunes/detail/lobe-den-herren" title=
+"View other hymns with Lobe den Herren">Lobe den Herren</a></dd>
 <dt>Meter</dt>
 <dd class="hymn-meter"><a href=
-"http://adventisthymns.com/meters/detail/irregular" title=
-"View other hymns with Irregular">Irregular</a></dd>
+"http://adventisthymns.com/meters/detail/14-14-4-7-8" title=
+"View other hymns with 14.14.4.7.8.">14.14.4.7.8.</a></dd>
 <dt>Time Signature</dt>
 <dd class="hymn-time-sig">3/4</dd>
 <dt>Topic</dt>
@@ -245,7 +243,7 @@ itemprop="contributor">Netherland Folk Song</a>, 1625</dd>
 "View other hymns about Adoration and Praise">Adoration and
 Praise</a></dd>
 <dt>Updated</dt>
-<dd>June 9, 2013, 12:03 pm PDT</dd>
+<dd>February 5, 2013, 7:05 pm PST</dd>
 </dl>
 <hr />
 <h3 class="delta sidebar-heading">You might also like:</h3>
@@ -260,11 +258,11 @@ Praise</a></dd>
 "http://adventisthymns.com/lyrics/004-praise-my-soul-the-king-of-heaven">
 <strong>004</strong> – Praise, My Soul, the King of Heaven</a></li>
 <li><a href=
-"http://adventisthymns.com/lyrics/001-praise-to-the-lord"><strong>001</strong>
-– Praise to the Lord</a></li>
-<li><a href=
 "http://adventisthymns.com/lyrics/012-joyful-joyful-we-adore-thee"><strong>
 012</strong> – Joyful, Joyful, We Adore Thee</a></li>
+<li><a href=
+"http://adventisthymns.com/lyrics/015-my-maker-and-my-king"><strong>
+015</strong> – My Maker and My King</a></li>
 </ul>
 <dl class="post-info"></dl>
 </div>
